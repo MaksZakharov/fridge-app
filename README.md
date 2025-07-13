@@ -98,7 +98,7 @@ fridge-app/
 Если ты используешь `pytest`, запусти тесты так:
 
 ```bash
-python -m pytest tests/
+pytest
 ```
 
 Примеры тестов покрывают:
